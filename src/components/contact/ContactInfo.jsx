@@ -10,7 +10,7 @@ function ContactInfo() {
       <div>
         <h3 className="text-lg font-semibold text-gray-900">Phone</h3>
         <p className="text-gray-600">Emergency: +2547 59 003 943</p>
-        <p className="text-gray-600">Reception: +2547 68 361 772 </p>
+        <p className="text-gray-600">Reception: +2547 59 003 943 </p>
       </div>
       <div>
         <h3 className="text-lg font-semibold text-gray-900">Email</h3>

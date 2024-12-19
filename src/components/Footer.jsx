@@ -45,7 +45,7 @@ function Footer() {
               <li>korowe Market, kisumu-Ahero Highway</li>
               <li>Medical District</li>
               <li>Phone: +2547 59 003 943</li>
-              <li>Emergency: +2547 68 361 772</li>
+              <li>Emergency: +2547 59 003 943</li>
               <li>info@abalahealthcenter.com</li>
             </ul>
           </div>
