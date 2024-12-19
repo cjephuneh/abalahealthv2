@@ -46,7 +46,7 @@ function Footer() {
               <li>Medical District</li>
               <li>Phone: +2547 59 003 943</li>
               <li>Emergency: +2547 59 003 943</li>
-              <li>info@abalahealthcenter.com</li>
+              <li>info@abalahealthcenter.co.ke</li>
             </ul>
           </div>
         </div>
