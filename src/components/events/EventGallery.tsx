@@ -25,6 +25,12 @@ function EventGallery() {
       image: "/WhatsApp Image 2024-12-28 at 20.51.19_abbb67b9.jpg",
       title: "Free Health Screening",
       description: "Community members receiving free health check-ups and consultations"
+    },
+    {
+      id: 5,
+      image: "/WhatsApp Image 2024-12-28 at 20.51.19_abbb67b9.jpg",
+      title: "Free Health Screening",
+      description: "Community members receiving free health check-ups and consultations"
     }
   ];
 
