@@ -4,25 +4,25 @@ function EventGallery() {
   const events = [
     {
       id: 1,
-      image: "/images/events/community-gathering.jpg",
+      image: "/WhatsApp Image 2024-12-28 at 20.06.12_24590f0b.jpg",
       title: "Community Health Day",
       description: "Local community members gathering under tents for health awareness program"
     },
     {
       id: 2,
-      image: "/images/events/medical-supplies.jpg",
+      image: "/public/WhatsApp Image 2024-12-28 at 20.06.13_0f3ad3c5.jpg",
       title: "Medical Supplies Distribution",
       description: "Distribution of essential medical supplies and equipment"
     },
     {
       id: 3,
-      image: "/images/events/awards-ceremony.jpg",
+      image: "/public/WhatsApp Image 2024-12-28 at 20.51.18_b0d3f1af.jpg",
       title: "Health Champions Awards",
       description: "Recognition ceremony for outstanding community health workers"
     },
     {
       id: 4,
-      image: "/images/events/health-screening.jpg",
+      image: "/public/WhatsApp Image 2024-12-28 at 20.51.19_abbb67b9.jpg",
       title: "Free Health Screening",
       description: "Community members receiving free health check-ups and consultations"
     }
